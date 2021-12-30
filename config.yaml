@@ -1,0 +1,4 @@
+workload:
+  successExecDuration: 1s
+  error400ExecDuration: 3s
+  error500ExecDuration: 5s
